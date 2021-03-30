@@ -1,6 +1,7 @@
 # news_hub
 
 News Application using Flutter and News API
+Download the app_release.apk to test the app
 
 ## Getting Started
 
