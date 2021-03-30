@@ -1,7 +1,8 @@
 # news_hub
 
 News Application using Flutter and News API
-Download the app_release.apk to test the app
+Download the app-release.apk to test the app
+https://github.com/theprogrammerdude/NewsHub/blob/main/app-release.apk
 
 ## Getting Started
 
